@@ -1,0 +1,9 @@
+---
+Name: editor-extensions
+After:
+  - 'framework/*'
+  - 'cms/*'
+---
+HtmlEditorField_Toolbar:
+  extensions:
+    - LinkFormExtension
