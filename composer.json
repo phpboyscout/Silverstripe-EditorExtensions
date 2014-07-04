@@ -18,9 +18,11 @@
         "wiki": "https://github.com/zucchi/Silverstripe-EditorExtensions/wiki",
         "source": "https://github.com/zucchi/Silverstripe-EditorExtensions"
     },
-    "target-dir" : "editor-extensions",
-	"require": {
-		"silverstripe/framework": "3.*",
+    "require": {
+	"silverstripe/framework": "3.*",
         "silverstripe/cms": "3.*"
-	}
+    },
+    "extra": {
+	    "installer-name": "editor-extensions"
+    }
 }
