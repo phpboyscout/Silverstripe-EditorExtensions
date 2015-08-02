@@ -1,5 +1,5 @@
 {
-	"name": "zucchi/editor-extensions",
+	"name": "phpboyscout/editor-extensions",
 	"description": "Module to provide some useful extensions for the WYSIWYG Editor",
 	"type": "silverstripe-module",
     "keywords" : ["silverstripe", "HTMLEditorField"],
@@ -7,16 +7,16 @@
     "authors": [
         {
             "name": "Matt Cockayne",
-            "email": "matt@zucchi.co.uk",
-            "homepage": "http://zucchi.co.uk",
+            "email": "matt@phpboyscout.uk",
+            "homepage": "http://phpboyscout.uk",
             "role": "Developer"
         }
     ],
     "support": {
         "email": "dev@zucchi.co.uk",
-        "issues": "https://github.com/zucchi/Silverstripe-EditorExtensions/issues",
-        "wiki": "https://github.com/zucchi/Silverstripe-EditorExtensions/wiki",
-        "source": "https://github.com/zucchi/Silverstripe-EditorExtensions"
+        "issues": "https://github.com/phpboyscout/Silverstripe-EditorExtensions/issues",
+        "wiki": "https://github.com/phpboyscout/Silverstripe-EditorExtensions/wiki",
+        "source": "https://github.com/phpboyscout/Silverstripe-EditorExtensions"
     },
     "require": {
 	"silverstripe/framework": "3.*",
